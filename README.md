@@ -1,2 +1,2 @@
 # net-core-mvc-hello-world
-![](./demo/net-core-hello.gif)
+![](./WebMVCTest/demo/net-core-hello.gif)
