@@ -23,7 +23,7 @@ namespace WebMVCTest.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Project1()
         {
             return View();
         }
